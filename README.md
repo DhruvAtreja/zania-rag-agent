@@ -6,7 +6,6 @@ POST /upload
 
 POST /ask
 
-<img src="demo.png" />
 
 ## Stack
 
