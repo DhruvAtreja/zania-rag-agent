@@ -5,8 +5,7 @@
 POST /upload
 
 POST /ask
-
-
+![ScreenShot](demo.png)
 ## Stack
 
 - VectorDB: [Qdrant](https://github.com/qdrant/qdrant)
